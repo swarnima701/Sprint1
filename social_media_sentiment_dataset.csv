@@ -1,0 +1,121 @@
+Post_ID,User_Name,Platform,Date,Comment_Text,Sentiment,Topic,Likes,Shares,Comment_Count
+1,Amit,Facebook,2025-01-01,The product was launched today,Neutral,E-commerce,114,35,94
+2,Kavya,LinkedIn,2025-01-02,Great service and amazing experience,Positive,AI,15,23,27
+3,Rohan,Instagram,2025-01-03,Great service and amazing experience,Positive,Technology,332,179,69
+4,Pooja,Facebook,2025-01-04,Customer support is very slow,Negative,AI,388,40,89
+5,Vikas,Instagram,2025-01-05,Not satisfied with the service,Negative,E-commerce,490,195,43
+6,Arjun,Twitter,2025-01-06,Great service and amazing experience,Positive,Education,433,88,77
+7,Pooja,Twitter,2025-01-07,Terrible experience with the app,Negative,Healthcare,40,141,37
+8,Kavya,Instagram,2025-01-08,This is an informational post,Neutral,Technology,35,11,84
+9,Priya,Instagram,2025-01-09,Very helpful and easy to use,Positive,AI,194,71,58
+10,Rahul,Facebook,2025-01-10,This is an informational post,Neutral,Education,107,171,34
+11,Kavya,Instagram,2025-01-11,The product was launched today,Neutral,Sports,373,62,20
+12,Vikas,Instagram,2025-01-12,The update introduced many bugs,Negative,Technology,166,196,99
+13,Amit,Facebook,2025-01-13,Loved the new feature,Positive,Healthcare,137,16,27
+14,Sneha,LinkedIn,2025-01-14,This is an informational post,Neutral,Healthcare,452,164,58
+15,Rahul,Instagram,2025-01-15,Very helpful and easy to use,Positive,Technology,287,137,33
+16,Kavya,LinkedIn,2025-01-16,The event starts next week,Neutral,Education,112,35,65
+17,Amit,Twitter,2025-01-17,Terrible experience with the app,Negative,E-commerce,321,40,87
+18,Arjun,LinkedIn,2025-01-18,Terrible experience with the app,Negative,Sports,239,135,32
+19,Priya,Facebook,2025-01-19,The product was launched today,Neutral,Technology,174,28,37
+20,Pooja,Twitter,2025-01-20,Customer support is very slow,Negative,Technology,448,184,33
+21,Rohan,Twitter,2025-01-21,I tried the feature yesterday,Neutral,Technology,152,163,64
+22,Rahul,Facebook,2025-01-22,I tried the feature yesterday,Neutral,E-commerce,276,199,67
+23,Pooja,Twitter,2025-01-23,Very helpful and easy to use,Positive,AI,475,92,39
+24,Sneha,Twitter,2025-01-24,Great service and amazing experience,Positive,AI,374,124,8
+25,Rahul,LinkedIn,2025-01-25,I tried the feature yesterday,Neutral,Sports,84,67,67
+26,Sneha,Instagram,2025-01-26,The event starts next week,Neutral,Technology,159,102,85
+27,Pooja,LinkedIn,2025-01-27,This is an informational post,Neutral,AI,126,57,8
+28,Kavya,Instagram,2025-01-28,Terrible experience with the app,Negative,Sports,112,1,9
+29,Sneha,Twitter,2025-01-29,The product was launched today,Neutral,AI,440,84,9
+30,Vikas,LinkedIn,2025-01-30,I tried the feature yesterday,Neutral,E-commerce,276,33,92
+31,Sneha,LinkedIn,2025-01-31,The event starts next week,Neutral,Healthcare,97,24,12
+32,Neha,LinkedIn,2025-02-01,The event starts next week,Neutral,Healthcare,239,186,6
+33,Amit,LinkedIn,2025-02-02,The product was launched today,Neutral,Technology,173,27,31
+34,Rohan,LinkedIn,2025-02-03,Loved the new feature,Positive,E-commerce,216,46,35
+35,Priya,LinkedIn,2025-02-04,Customer support is very slow,Negative,Sports,50,12,83
+36,Priya,Instagram,2025-02-05,The product was launched today,Neutral,E-commerce,208,124,61
+37,Amit,Instagram,2025-02-06,Excellent customer support,Positive,Healthcare,1,99,33
+38,Arjun,LinkedIn,2025-02-07,Not satisfied with the service,Negative,E-commerce,97,75,27
+39,Neha,Twitter,2025-02-08,Great service and amazing experience,Positive,AI,299,122,64
+40,Amit,Twitter,2025-02-09,I tried the feature yesterday,Neutral,E-commerce,35,152,8
+41,Arjun,Twitter,2025-02-10,I tried the feature yesterday,Neutral,Sports,126,148,76
+42,Arjun,Facebook,2025-02-11,Great service and amazing experience,Positive,Education,104,171,91
+43,Vikas,LinkedIn,2025-02-12,Customer support is very slow,Negative,E-commerce,343,165,38
+44,Priya,Twitter,2025-02-13,Not satisfied with the service,Negative,Healthcare,318,144,12
+45,Rohan,Facebook,2025-02-14,Loved the new feature,Positive,E-commerce,477,89,8
+46,Vikas,Instagram,2025-02-15,Very helpful and easy to use,Positive,Healthcare,426,139,90
+47,Rohan,Facebook,2025-02-16,Terrible experience with the app,Negative,Technology,53,34,33
+48,Rohan,Instagram,2025-02-17,Great service and amazing experience,Positive,Education,144,154,26
+49,Sneha,Facebook,2025-02-18,This is an informational post,Neutral,Sports,250,64,6
+50,Vikas,Twitter,2025-02-19,Excellent customer support,Positive,AI,170,197,16
+51,Rahul,LinkedIn,2025-02-20,This is an informational post,Neutral,Sports,361,109,71
+52,Priya,Instagram,2025-02-21,Great service and amazing experience,Positive,Sports,18,94,74
+53,Arjun,Instagram,2025-02-22,I tried the feature yesterday,Neutral,AI,157,93,5
+54,Sneha,Twitter,2025-02-23,Customer support is very slow,Negative,Education,399,143,52
+55,Sneha,Instagram,2025-02-24,I tried the feature yesterday,Neutral,E-commerce,451,105,3
+56,Arjun,Instagram,2025-02-25,Very helpful and easy to use,Positive,Education,81,179,13
+57,Pooja,Instagram,2025-02-26,Terrible experience with the app,Negative,E-commerce,418,117,44
+58,Sneha,Twitter,2025-02-27,Customer support is very slow,Negative,Technology,98,102,42
+59,Vikas,Facebook,2025-02-28,Terrible experience with the app,Negative,Technology,260,102,86
+60,Amit,Twitter,2025-03-01,This is an informational post,Neutral,Education,91,148,33
+61,Kavya,LinkedIn,2025-03-02,Great service and amazing experience,Positive,Education,373,80,55
+62,Arjun,Instagram,2025-03-03,The product was launched today,Neutral,Education,22,181,55
+63,Neha,LinkedIn,2025-03-04,Loved the new feature,Positive,AI,485,170,42
+64,Priya,Facebook,2025-03-05,This is an informational post,Neutral,Sports,158,170,52
+65,Vikas,Instagram,2025-03-06,The update introduced many bugs,Negative,E-commerce,215,170,48
+66,Kavya,Facebook,2025-03-07,I tried the feature yesterday,Neutral,Healthcare,280,0,38
+67,Arjun,Facebook,2025-03-08,Customer support is very slow,Negative,Healthcare,226,113,86
+68,Rahul,Twitter,2025-03-09,Excellent customer support,Positive,Education,263,169,81
+69,Priya,Instagram,2025-03-10,This is an informational post,Neutral,Technology,158,57,25
+70,Amit,Instagram,2025-03-11,Great service and amazing experience,Positive,Healthcare,312,196,9
+71,Kavya,Instagram,2025-03-12,The update introduced many bugs,Negative,Technology,356,98,63
+72,Rahul,Twitter,2025-03-13,Customer support is very slow,Negative,AI,398,108,28
+73,Amit,Instagram,2025-03-14,Excellent customer support,Positive,AI,233,34,59
+74,Pooja,LinkedIn,2025-03-15,This is an informational post,Neutral,Sports,228,40,95
+75,Vikas,Instagram,2025-03-16,The update introduced many bugs,Negative,Technology,141,196,99
+76,Sneha,Facebook,2025-03-17,The event starts next week,Neutral,Healthcare,39,182,36
+77,Neha,Facebook,2025-03-18,Very helpful and easy to use,Positive,Sports,41,35,19
+78,Rahul,Instagram,2025-03-19,Excellent customer support,Positive,AI,212,104,42
+79,Arjun,Twitter,2025-03-20,The event starts next week,Neutral,E-commerce,426,107,49
+80,Kavya,LinkedIn,2025-03-21,The product was launched today,Neutral,Healthcare,3,90,38
+81,Rohan,Instagram,2025-03-22,The update introduced many bugs,Negative,Healthcare,112,69,55
+82,Arjun,Facebook,2025-03-23,Terrible experience with the app,Negative,Technology,347,103,92
+83,Rahul,Twitter,2025-03-24,Excellent customer support,Positive,Healthcare,303,144,84
+84,Arjun,Instagram,2025-03-25,Great service and amazing experience,Positive,Healthcare,93,12,33
+85,Sneha,LinkedIn,2025-03-26,Not satisfied with the service,Negative,Education,172,194,48
+86,Vikas,Twitter,2025-03-27,The update introduced many bugs,Negative,Healthcare,9,191,69
+87,Sneha,Twitter,2025-03-28,Very helpful and easy to use,Positive,Technology,20,193,3
+88,Amit,Instagram,2025-03-29,Loved the new feature,Positive,E-commerce,64,121,85
+89,Pooja,Facebook,2025-03-30,Loved the new feature,Positive,Education,85,155,77
+90,Rahul,Facebook,2025-03-31,The product was launched today,Neutral,AI,296,6,39
+91,Arjun,Instagram,2025-04-01,The event starts next week,Neutral,AI,303,176,80
+92,Vikas,Twitter,2025-04-02,Great service and amazing experience,Positive,Sports,400,10,44
+93,Neha,Twitter,2025-04-03,The event starts next week,Neutral,Sports,331,87,1
+94,Priya,LinkedIn,2025-04-04,The update introduced many bugs,Negative,Education,325,117,90
+95,Rahul,Facebook,2025-04-05,Excellent customer support,Positive,Sports,413,137,99
+96,Arjun,Facebook,2025-04-06,The update introduced many bugs,Negative,Education,436,62,11
+97,Sneha,LinkedIn,2025-04-07,The update introduced many bugs,Negative,Sports,312,171,48
+98,Pooja,Facebook,2025-04-08,Terrible experience with the app,Negative,E-commerce,249,54,45
+99,Vikas,Facebook,2025-04-09,Not satisfied with the service,Negative,Sports,5,132,24
+100,Arjun,LinkedIn,2025-04-10,Loved the new feature,Positive,Sports,388,61,88
+101,Pooja,Twitter,2025-04-11,The update introduced many bugs,Negative,AI,150,56,51
+102,Vikas,Facebook,2025-04-12,I tried the feature yesterday,Neutral,Healthcare,283,135,44
+103,Neha,LinkedIn,2025-04-13,Not satisfied with the service,Negative,Education,156,64,29
+104,Neha,Twitter,2025-04-14,Loved the new feature,Positive,Technology,274,195,88
+105,Sneha,LinkedIn,2025-04-15,Loved the new feature,Positive,Education,370,150,97
+106,Priya,Instagram,2025-04-16,This is an informational post,Neutral,Education,116,92,22
+107,Rohan,Instagram,2025-04-17,Terrible experience with the app,Negative,Education,23,13,70
+108,Pooja,Twitter,2025-04-18,Customer support is very slow,Negative,AI,293,72,60
+109,Neha,Instagram,2025-04-19,The update introduced many bugs,Negative,AI,129,122,14
+110,Pooja,Twitter,2025-04-20,Excellent customer support,Positive,Sports,322,175,6
+111,Kavya,Facebook,2025-04-21,Loved the new feature,Positive,AI,127,30,71
+112,Rohan,LinkedIn,2025-04-22,Customer support is very slow,Negative,Healthcare,465,113,38
+113,Vikas,Twitter,2025-04-23,The event starts next week,Neutral,Sports,491,189,12
+114,Vikas,Twitter,2025-04-24,Loved the new feature,Positive,E-commerce,122,44,70
+115,Amit,LinkedIn,2025-04-25,Loved the new feature,Positive,Healthcare,352,152,60
+116,Sneha,Facebook,2025-04-26,Terrible experience with the app,Negative,Technology,144,179,58
+117,Vikas,Instagram,2025-04-27,Loved the new feature,Positive,Healthcare,58,139,28
+118,Vikas,Instagram,2025-04-28,I tried the feature yesterday,Neutral,AI,30,42,39
+119,Pooja,Twitter,2025-04-29,This is an informational post,Neutral,Healthcare,352,77,89
+120,Rohan,LinkedIn,2025-04-30,Not satisfied with the service,Negative,Healthcare,41,153,5
